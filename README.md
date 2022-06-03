@@ -1,5 +1,7 @@
-Session - Spot Map App Aiesha Esa David Mesa Edmund Felicidario CMPS
-3420-60 Spring 2022 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+# Session - Spot Map App Aiesha Esa David Mesa Edmund Felicidario CMPS
+** FYI - Tried to convert the original .docx/.pdf into a .md... this is how it turned out enjoy
+
+3420-60 Spring 2022 
 
 1.1 - Fact-Finding Techniques and Information Gathering 1.1.1 -
 Introduction to the Enterprise/Organization. 1.1.2 - Description of
